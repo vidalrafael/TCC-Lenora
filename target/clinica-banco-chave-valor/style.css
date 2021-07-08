@@ -1,0 +1,130 @@
+.app{
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  display: flex;
+  min-height: 100vh;
+  background-color: #0176c0;
+}
+
+.full-page{
+  width: 100%;
+}
+
+.page-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  margin: 0 !important;
+}
+
+.login{
+  width: 400px;
+  height: 450px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.editForm{
+  width: 300px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.btnLogin{
+  width: 100px;
+  background-color: #014e9d;
+}
+
+.logoHospital{
+  width: 350px;
+  height: 165px;
+  margin-top: -17px;
+}
+
+.errorForm{
+  color: #d30f0f;
+  margin: 0;
+}
+
+.box-white{
+  background-color: #fff;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding: 0 60px 15px 60px;
+}
+
+.acesso{
+  text-align: center;
+  padding: 0 10px;
+  margin-bottom: -3px;
+  margin-top: 5px;
+}
+
+.linha{
+  border-top: 4px solid rgba(0, 0, 0, 0.26);
+}
+
+.m-card{
+  margin: 10px;
+}
+
+.img-card{
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+}
+
+.title-h4{
+  margin-bottom: 20px !important;
+}
+
+h4{
+  font-style: italic;  
+  margin-bottom: 0;
+}
+
+.col-form-label{
+  display: flex;
+  align-items: center;
+}
+
+.espacoEdit{
+  margin-top: 15px !important;
+}
+
+.incluir{
+  margin-top: 30px !important;
+}
+
+.setaVoltar{
+  width: 30px;
+  height: 100%;
+  cursor: pointer;
+}
+
+.p-left{
+  padding-left: 10px;
+}
+
+h5{
+  font-style: italic;
+}
+
+.inputNome{
+  width: calc(100% - 121px);
+}
+
+.linha2{
+  border-top: 1px solid rgba(0, 0, 0, 0.26);
+}
